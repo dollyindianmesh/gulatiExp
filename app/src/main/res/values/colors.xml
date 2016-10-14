@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="green_default_theem">#2DA091</color>
+    <color name="insta_color1">#9F33A8</color>
+    <color name="insta_color3">#F4944F</color>
+    <color name="insta_color2">#D94F5F</color>
+    #D94F5F
+
+
+    <color name="blue_lite_default">#4dcffe</color>
+    <color name="blue_bottom_shade">#00abea</color>
+
+    <color name="dark_blue_default">#16388e</color>
+    <color name="dark_blue_bottom_shade">#37549b</color>
+    <!-- //#0D9BDD -->
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#dadada</color>
+    <color name="dark_gray">#A8A8A8</color>
+    <color name="transparent_gray">#66000000</color>
+
+    <color name="textcolor_gray">#191919</color>
+
+    <color name="green">#01B416</color>
+    <color name="red">#FB1D1D</color>
+
+    <color name="transparent_seagreen">#11156E9C</color>
+    <color name="googleplus_red">#DC4A38</color>
+    <color name="facebook_blue">#3C5A99</color>
+    <color name="sky_blue_twitter">#2AA9E0</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+
+    <dimen name="font_size_large">20sp</dimen>
+    <dimen name="font_size_normal">15sp</dimen>
+    <dimen name="font_size_small">13sp</dimen>
+
+</resources>

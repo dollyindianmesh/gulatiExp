@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Gulati</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_main">t main</string>
+
+    <!--Sign up-->
+    <string name="signup">Sign up</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="txt_link_already_account">Already have an account?</string>
+
+    <string name="signup_firstname">t First Name</string>
+    <string name="signup_lastname">t Last Name (Optional)</string>
+    <string name="signup_companyname">t Enter Company Name</string>
+    <string name="signup_emailddress">t Email Address</string>
+    <string name="profile_address">t Enter your Address</string>
+    <string name="signup_confirm_password">t Confirm Password</string>
+    <string name="signup_with_facebook">t Sign up with Facebook</string>
+    <string name="signup_individual">t Individual</string>
+    <string name="signup_company">t Company</string>
+
+    <!--Picked up detail-->
+
+    <string name="pickup_item">t Choose Item Type</string>
+    <string name="pickup_date">t Pickup Date</string>
+    <string name="pickup_time">t Pickup Time</string>
+
+    <string name="enter_item_quantity">t Total quantity</string>
+
+    <string name="enter_items_weight">t Enter item\'s weight in kg</string>
+
+    <string name="pickup_reciever_name">t Enter Name of Reciever</string>
+    <string name="pickup_reciever_address">t Enter Reciever House no</string>
+    <string name="pickup_phoneno">t Enter Reciever phone number</string>
+    <string name="pickup_email">t Email Address</string>
+    <string name="pickup_giftpack">t Want Gift Wrapped</string>
+    <string name="pickup_message">t Message ( Optional )</string>
+    <string name="pickup_promocode">t Promo Code ( Optional )</string>
+    <string name="submit">t Submit</string>
+    <string name="apply">t Apply</string>
+    <string name="remove">t Remove</string>
+
+    <!--My Account-->
+    <string name="heading_my_profile">t My Profile</string>
+    <string name="heading_edit_profile">t Edit Profile</string>
+    <string name="heading_history">t History</string>
+
+    <!--Driver detail screen-->
+    <string name="heading_driver_detail">t Driver Info</string>
+    <string name="driver_rating">t RATING</string>
+    <string name="driver_lb_name">t DRIVER NAME</string>
+    <string name="driver_lb_phone">t PHONE</string>
+    <string name="driver_lb_id">t ID</string>
+
+    <!--Sign In-->
+    <string name="heading_forgot_passowrd">Forgot Password</string>
+    <string name="forgot_your_passowrd">t Forgot your Password?</string>
+    <string name="enter_user_id">Enter User Id</string>
+    <string name="enter_phone_no">t Enter Contact no</string>
+    <string name="passowrd">Password</string>
+
+    <!--Pop up Expected Invoice-->
+    <string name="expected_invoice">t Expected Invoice</string>
+    <string name="pickup_location">t Pickup Location</string>
+    <string name="delivery_location">t Delivery Location</string>
+
+    <!--Pop up PaymentMode-->
+    <string name="payment">t Payment</string>
+    <string name="prepaid">t Prepaid</string>
+    <string name="postpaid">t Postpaid</string>
+    <string name="wallet">t Wallet</string>
+    <string name="cash">t Cash</string>
+    <string name="billing_cycle">t Billing Cycle</string>
+
+    <!--Pop up Deliver by-->
+    <string name="heading_deliver_by">t Delivery By</string>
+    <string name="footprint_driver">t Foot Print Driver</string>
+    <string name="own_driver">t Own  Driver</string>
+
+    <!--Buttons text-->
+    <string name="next">t Next</string>
+    <string name="request">t Request</string>
+    <string name="rate_card">t Rate Card</string>
+    <string name="send">t Send</string>
+    <string name="save">t Save</string>
+
+    <!--Change password-->
+    <string name="heading_new_password"> New Password</string>
+    <string name="new_password">t Enter New Password</string>
+    <string name="confirm_password">t Confirm Password</string>
+
+    <!--Forgot password-->
+    <string name="otp_sent_txt">t We just sent OTP to your Email</string>
+    <string name="enter_otp_lb">t Enter the OTP</string>
+    <string name="enter_otp">t Enter OTP</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">t Hello blank fragment</string>
+    <string-array name="sidebar_options">
+        <item>NOTIFICATION</item>
+        <item>HISTORY</item>
+        <item>WALLET</item>
+        <item>MY ACCOUNT</item>
+        <item>TERMS AND CONDITION</item>
+        <item>Share APP</item>
+        <item>LOGOUT</item>
+
+
+    </string-array>
+    <!-- Item Types Names-->
+    <string-array name="ary_item_types">
+        <item>GROCERY</item>
+        <item>FOOD</item>
+        <item>TIFFIN</item>
+    </string-array>
+
+    <!-- Common Alert dialogus msgs -->
+    <string name="dialog_alert_title">t Alert</string>
+    <string name="alert_internet_connection">t Please check your internet connection</string>
+    <string name="alert_server_error">t Server Error,Unable to get response</string>
+    <string name="alert_internet_connected">t unknownhost! Please check internet is connected?</string>
+
+    <!-- Alert dialogs button text -->
+    <string name="dialog_alert_ok">Ok</string>
+</resources>
